@@ -1,0 +1,21 @@
+﻿  Hull3q.cpp
+c:\users\james\documents\visual studio 2015\projects\glproject1\glproject1\quad.h(116): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\james\documents\visual studio 2015\projects\glproject1\glproject1\quad.h(204): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\james\documents\visual studio 2015\projects\glproject1\glproject1\quad.h(272): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\james\documents\visual studio 2015\projects\glproject1\glproject1\qtriangle.h(92): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\james\documents\visual studio 2015\projects\glproject1\glproject1\qtriangle.h(93): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\james\documents\visual studio 2015\projects\glproject1\glproject1\qtriangle.h(158): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\james\documents\visual studio 2015\projects\glproject1\glproject1\hull3q.cpp(31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\james\documents\visual studio 2015\projects\glproject1\glproject1\hull3q.cpp(32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\james\documents\visual studio 2015\projects\glproject1\glproject1\hull3q.cpp(33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\james\documents\visual studio 2015\projects\glproject1\glproject1\hull3q.cpp(74): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\james\documents\visual studio 2015\projects\glproject1\glproject1\hull3q.cpp(75): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\james\documents\visual studio 2015\projects\glproject1\glproject1\hull3q.cpp(85): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\james\documents\visual studio 2015\projects\glproject1\glproject1\hull3q.cpp(87): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\james\documents\visual studio 2015\projects\glproject1\glproject1\hull3q.cpp(102): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\james\documents\visual studio 2015\projects\glproject1\glproject1\hull3q.cpp(103): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\james\documents\visual studio 2015\projects\glproject1\glproject1\hull3q.cpp(104): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\james\documents\visual studio 2015\projects\glproject1\glproject1\hull3q.cpp(524): warning C4800: 'float': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\james\documents\visual studio 2015\projects\glproject1\glproject1\hull3q.cpp(541): warning C4800: 'float': forcing value to bool 'true' or 'false' (performance warning)
+  GLProject1.vcxproj -> C:\Users\James\Documents\Visual Studio 2015\Projects\GLProject1\Debug\GLProject1.exe
+  GLProject1.vcxproj -> C:\Users\James\Documents\Visual Studio 2015\Projects\GLProject1\Debug\GLProject1.pdb (Partial PDB)
